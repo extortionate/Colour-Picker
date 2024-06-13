@@ -16,7 +16,6 @@
 * **YCbCr**
 * **XYZ**
   
-◪ `Information`
-+ **Visual Studio 2022**
+◪ `More Information`
++ **Visual Studio 2022 C++**
 + **ImGui Library**
-+ **Copy Chosen Colour to Clipboard**
