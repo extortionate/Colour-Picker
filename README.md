@@ -1,5 +1,5 @@
 # Colour-Picker
-◪ `Colour Picker`
+◪ ``Colour Picker Formats``
 * **HEX**
 * **FLOAT**
 * **RGB**
