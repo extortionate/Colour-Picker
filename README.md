@@ -1,7 +1,5 @@
 # Colour-Picker
-  ![Animation](https://github.com/extortionate/Colour-Picker/assets/131308027/ecd21829-ed66-47f3-8ef6-ee3b0981628c)
-![Animation](https://github.com/extortionate/Colour-Picker/assets/131308027/ecd21829-ed66-47f3-8ef6-ee3b0981628c)
-
+![Animation](https://github.com/extortionate/Colour-Picker/assets/131308027/69647988-9a9a-4185-951d-647dbd1a8fb7)
 ◪ `Colour Picker Formats`
 * **HEX**
 * **FLOAT**
