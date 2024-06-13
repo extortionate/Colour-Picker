@@ -11,11 +11,13 @@
 ◪ `Colour Picker Formats`
 * **HEX**
 * **FLOAT**
+* **HSL**
 * **RGB**
 * **HSV**
 * **CMYK**
 * **LCH**
 * **YCbCr**
+* **LAB**
 * **XYZ**
   
 ◪ `More Information`
